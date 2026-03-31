@@ -15,13 +15,6 @@ VIBEASY is a mobile app that provides various vibration patterns for your device
 ### Is VIBEASY free to use?
 VIBEASY offers both free and premium features. Some basic vibration patterns are available for free, while premium features require a subscription.
 
-## Subscription Questions
-
-### What subscription plans are available?
-- **Weekly Premium**: $2.99 per week
-- **Monthly Premium**: $12.99 per month (Most Popular)
-- **Lifetime Premium**: $29.99 one-time payment
-
 ### What do I get with a premium subscription?
 Premium subscribers get access to:
 - All vibration patterns and modes
