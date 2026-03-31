@@ -48,14 +48,10 @@ Make sure that:
 ### Does VIBEASY work on all devices?
 VIBEASY works on:
 - iOS devices (iPhone and iPad) running iOS 12.0 or later
-- Android devices running Android 6.0 or later
 - The app requires a device with vibration capabilities
 
 ### Will VIBEASY drain my battery?
 VIBEASY is designed to be battery-efficient. However, extended use of vibration patterns may impact battery life, as vibration is a power-intensive feature.
-
-### Can I use VIBEASY in silent mode?
-Yes, VIBEASY works even when your device is in silent mode, as it uses the device's vibration motor rather than speakers.
 
 ## Privacy and Data
 
@@ -115,16 +111,14 @@ We typically respond within 24-48 hours during business days.
 
 ### Where can I download VIBEASY?
 - **iOS**: Available on the Apple App Store
-- **Android**: Available on Google Play Store
 
 ### What are the app requirements?
 - **iOS**: Requires iOS 12.0 or later
-- **Android**: Requires Android 6.0 or later
 - **Storage**: Approximately 50MB of free space
 - **Permissions**: Vibration access
 
 ### Is VIBEASY available in my country?
-VIBEASY is available in most countries where the App Store and Google Play Store operate. Check your local app store for availability.
+VIBEASY is available in most countries where the App Store. Check your local app store for availability.
 
 ---
 
